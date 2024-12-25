@@ -1,2 +1,3 @@
 # Django
-Projects related django
+Projects related django.
+Author - Sahin
